@@ -1,0 +1,140 @@
+.myButton {
+background:linear-gradient(to bottom, #8c0f0b 5%, #8c0f0b 100%);
+background-color:#a3130d;
+border-radius:40px;
+border:2.5px solid #a3120d;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.myButton:hover {
+border-radius:40px;
+border:2.5px solid #590707;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.myButton:active {
+position:relative;
+top:1px;
+}
+.navbot {
+background-color:#a3130d;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:century gothic;
+font-size:15pt;
+padding:0px 0px;
+text-decoration:none;
+}
+.navbot:hover {
+display:inline-block;
+cursor:pointer;
+color:#cccccc;
+font-family:century gothic;
+font-size:15pt;
+padding:0px 0px;
+text-decoration:none;
+}
+.navbot:active {
+position:relative;
+top:1px;
+}
+.Bhome {
+background-color:#00000000;
+border-radius:40px;
+border:2.5px solid #ffffff;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.Bhome:hover {
+border-radius:40px;
+border:2.5px solid #aaaaaa;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.Bhome:active {
+position:relative;
+top:1px;
+}
+.Bhome1 {
+background-color:#00000000;
+border-radius:40px;
+border:2.5px solid #000000;
+display:inline-block;
+cursor:pointer;
+color:#000000;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.Bhome1:hover {
+border-radius:40px;
+border:2.5px solid #666;
+display:inline-block;
+cursor:pointer;
+color:#000000;
+font-family:century gothic;
+font-size:20px;
+padding:15px 30px;
+text-decoration:none;
+}
+.Bhome1:active {
+position:relative;
+top:1px;
+}
+
+input, textarea {
+width: 200px;
+padding: 10px;
+color: black;
+margin-left: 20px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border: 1px solid;
+}
+
+.submit input {
+background-color: #66FFFF;
+height: 40px;
+width: 100px;
+font-weight: bold;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border: 1px solid;
+color: black;
+}
+
+textarea {
+width: 400px;
+height: 80px;
+line-height: 20px;
+max-width: 400px;
+}
+
+form label {
+    margin-left: 20px;
+    color: #a3130d;
+    font-weight: bold;
+}

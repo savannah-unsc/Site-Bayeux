@@ -1,0 +1,97 @@
+body{
+background-image: url("fundo.jpg");
+background-repeat: repeat;
+font: normal 13pt century gothic;
+color:#ffffff;
+}
+#navbar{
+background-color: #a3130d;
+width: inherit;
+height: 50px;
+}
+#e404{
+background-color: #080c1c;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: inherit;
+height: auto;
+}
+#sobre{
+background-color: #f2f3f4;
+font: normal 13pt century gothic;
+color:#000;
+width: inherit;
+height: auto;
+}
+#bini1{
+background-color: #f2f3f4;
+font: normal 13pt century gothic;
+color:#000000;
+width: 95%;
+height: auto;
+border-radius:10px;
+}
+#bini2{
+background-color: #df2443;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: 95%;
+height: auto;
+border-radius:10px;
+}
+#bini3{
+background-color: #20dbbc ;
+font: normal 13pt century gothic;
+color:#000000;
+width: 95%;
+height: auto;
+border-radius:10px;
+}
+#bini4{
+background-color: #01203f ;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: 95%;
+height: auto;
+border-radius:10px;
+}
+#curso{
+background-color: #171717aa;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: inherit;
+height: auto;
+}
+#news{
+background-color: #171717aa;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: inherit;
+height: auto;
+}
+#grade{
+background-color: #a3130d70;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: inherit;
+height: auto;
+}
+#foot{
+background-color: #a3130d;
+width: inherit;
+height: 80px;
+bottom: 0;
+font: normal 13pt century gothic;
+color:#ffffff;
+}
+#in {
+
+}
+#cd {
+border-radius:5px;
+background-color: #171717aa;
+font: normal 13pt century gothic;
+color:#ffffff;
+width: 200px;
+height: 190px;
+}
